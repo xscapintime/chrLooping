@@ -1,0 +1,11 @@
+#PBS -l nodes=1:ppn=2
+#PBS -q batch
+#PBS -j oe
+#PBS -o ${outtsv}.out
+#PBS -V 
+cd $PBS_O_WORKDIR
+
+# 5000 gives reasonalbe number of loops for an estimated false+ of ~5%
+getloops -t 1 -w 10000 -m bed_to_bed -i ${inreadsbedpe} -p ${inpeaksbed} -o ${outtsv}
+
+
