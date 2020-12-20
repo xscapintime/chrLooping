@@ -1,1 +1,1 @@
-# BigWig to BED file format conersion
+# BigWig to BED file format conversion
