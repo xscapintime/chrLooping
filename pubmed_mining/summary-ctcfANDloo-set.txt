@@ -1,0 +1,1180 @@
+1: Hansen AS, Pustova I, Cattoglio C, Tjian R, Darzacq X. CTCF and cohesin
+regulate chromatin loop stability with distinct dynamics. Elife. 2017 May
+3;6:e25776. doi: 10.7554/eLife.25776. PMID: 28467304; PMCID: PMC5446243.
+
+2: Merkenschlager M, Nora EP. CTCF and Cohesin in Genome Folding and
+Transcriptional Gene Regulation. Annu Rev Genomics Hum Genet. 2016 Aug
+31;17:17-43. doi: 10.1146/annurev-genom-083115-022339. Epub 2016 Apr 18. PMID:
+27089971.
+
+3: Rowley MJ, Corces VG. Organizational principles of 3D genome architecture.
+Nat Rev Genet. 2018 Dec;19(12):789-800. doi: 10.1038/s41576-018-0060-8. PMID:
+30367165; PMCID: PMC6312108.
+
+4: Wutz G, Várnai C, Nagasaka K, Cisneros DA, Stocsits RR, Tang W, Schoenfelder
+S, Jessberger G, Muhar M, Hossain MJ, Walther N, Koch B, Kueblbeck M, Ellenberg
+J, Zuber J, Fraser P, Peters JM. Topologically associating domains and chromatin
+loops depend on cohesin and are regulated by CTCF, WAPL, and PDS5 proteins. EMBO
+J. 2017 Dec 15;36(24):3573-3599. doi: 10.15252/embj.201798004. Epub 2017 Dec 7.
+PMID: 29217591; PMCID: PMC5730888.
+
+5: Rao SS, Huntley MH, Durand NC, Stamenova EK, Bochkov ID, Robinson JT, Sanborn
+AL, Machol I, Omer AD, Lander ES, Aiden EL. A 3D map of the human genome at
+kilobase resolution reveals principles of chromatin looping. Cell. 2014 Dec
+18;159(7):1665-80. doi: 10.1016/j.cell.2014.11.021. Epub 2014 Dec 11. Erratum
+in: Cell. 2015 Jul 30;162(3):687-8. PMID: 25497547; PMCID: PMC5635824.
+
+6: Braccioli L, de Wit E. CTCF: a Swiss-army knife for genome organization and
+transcription regulation. Essays Biochem. 2019 Apr 23;63(1):157-165. doi:
+10.1042/EBC20180069. PMID: 30940740.
+
+7: Ghirlando R, Felsenfeld G. CTCF: making the right connections. Genes Dev.
+2016 Apr 15;30(8):881-91. doi: 10.1101/gad.277863.116. PMID: 27083996; PMCID:
+PMC4840295.
+
+8: Nuebler J, Fudenberg G, Imakaev M, Abdennur N, Mirny LA. Chromatin
+organization by an interplay of loop extrusion and compartmental segregation.
+Proc Natl Acad Sci U S A. 2018 Jul 17;115(29):E6697-E6706. doi:
+10.1073/pnas.1717730115. Epub 2018 Jul 2. PMID: 29967174; PMCID: PMC6055145.
+
+9: Zirkel A, Nikolic M, Sofiadis K, Mallm JP, Brackley CA, Gothe H, Drechsel O,
+Becker C, Altmüller J, Josipovic N, Georgomanolis T, Brant L, Franzen J, Koker
+M, Gusmao EG, Costa IG, Ullrich RT, Wagner W, Roukos V, Nürnberg P, Marenduzzo
+D, Rippe K, Papantonis A. HMGB2 Loss upon Senescence Entry Disrupts Genomic
+Organization and Induces CTCF Clustering across Cell Types. Mol Cell. 2018 May
+17;70(4):730-744.e6. doi: 10.1016/j.molcel.2018.03.030. Epub 2018 Apr 26. PMID:
+29706538.
+
+10: Rao SSP, Huang SC, Glenn St Hilaire B, Engreitz JM, Perez EM, Kieffer-Kwon
+KR, Sanborn AL, Johnstone SE, Bascom GD, Bochkov ID, Huang X, Shamim MS, Shin J,
+Turner D, Ye Z, Omer AD, Robinson JT, Schlick T, Bernstein BE, Casellas R,
+Lander ES, Aiden EL. Cohesin Loss Eliminates All Loop Domains. Cell. 2017 Oct
+5;171(2):305-320.e24. doi: 10.1016/j.cell.2017.09.026. PMID: 28985562; PMCID:
+PMC5846482.
+
+11: Beagan JA, Duong MT, Titus KR, Zhou L, Cao Z, Ma J, Lachanski CV, Gillis DR,
+Phillips-Cremins JE. YY1 and CTCF orchestrate a 3D chromatin looping switch
+during early neural lineage commitment. Genome Res. 2017 Jul;27(7):1139-1152.
+doi: 10.1101/gr.215160.116. Epub 2017 May 23. PMID: 28536180; PMCID: PMC5495066.
+
+12: Hansen AS, Cattoglio C, Darzacq X, Tjian R. Recent evidence that TADs and
+chromatin loops are dynamic structures. Nucleus. 2018 Jan 1;9(1):20-32. doi:
+10.1080/19491034.2017.1389365. Epub 2017 Dec 14. PMID: 29077530; PMCID:
+PMC5990973.
+
+13: Li Y, Haarhuis JHI, Sedeño Cacciatore Á, Oldenkamp R, van Ruiten MS, Willems
+L, Teunissen H, Muir KW, de Wit E, Rowland BD, Panne D. The structural basis for
+cohesin-CTCF-anchored loops. Nature. 2020 Feb;578(7795):472-476. doi:
+10.1038/s41586-019-1910-z. Epub 2020 Jan 6. PMID: 31905366; PMCID: PMC7035113.
+
+14: Liu XS, Wu H, Ji X, Stelzer Y, Wu X, Czauderna S, Shu J, Dadon D, Young RA,
+Jaenisch R. Editing DNA Methylation in the Mammalian Genome. Cell. 2016 Sep
+22;167(1):233-247.e17. doi: 10.1016/j.cell.2016.08.056. PMID: 27662091; PMCID:
+PMC5062609.
+
+15: Canela A, Maman Y, Jung S, Wong N, Callen E, Day A, Kieffer-Kwon KR,
+Pekowska A, Zhang H, Rao SSP, Huang SC, Mckinnon PJ, Aplan PD, Pommier Y, Aiden
+EL, Casellas R, Nussenzweig A. Genome Organization Drives Chromosome Fragility.
+Cell. 2017 Jul 27;170(3):507-521.e18. doi: 10.1016/j.cell.2017.06.034. Epub 2017
+Jul 20. PMID: 28735753; PMCID: PMC6133249.
+
+16: Sanborn AL, Rao SS, Huang SC, Durand NC, Huntley MH, Jewett AI, Bochkov ID,
+Chinnappan D, Cutkosky A, Li J, Geeting KP, Gnirke A, Melnikov A, McKenna D,
+Stamenova EK, Lander ES, Aiden EL. Chromatin extrusion explains key features of
+loop and domain formation in wild-type and engineered genomes. Proc Natl Acad
+Sci U S A. 2015 Nov 24;112(47):E6456-65. doi: 10.1073/pnas.1518552112. Epub 2015
+Oct 23. PMID: 26499245; PMCID: PMC4664323.
+
+17: Vian L, Pękowska A, Rao SSP, Kieffer-Kwon KR, Jung S, Baranello L, Huang SC,
+El Khattabi L, Dose M, Pruett N, Sanborn AL, Canela A, Maman Y, Oksanen A, Resch
+W, Li X, Lee B, Kovalchuk AL, Tang Z, Nelson S, Di Pierro M, Cheng RR, Machol I,
+St Hilaire BG, Durand NC, Shamim MS, Stamenova EK, Onuchic JN, Ruan Y,
+Nussenzweig A, Levens D, Aiden EL, Casellas R. The Energetics and Physiological
+Impact of Cohesin Extrusion. Cell. 2018 May 17;173(5):1165-1178.e20. doi:
+10.1016/j.cell.2018.03.072. Epub 2018 Apr 26. Erratum in: Cell. 2018 Sep
+20;175(1):292-294. PMID: 29706548; PMCID: PMC6065110.
+
+18: Cattoglio C, Pustova I, Walther N, Ho JJ, Hantsche-Grininger M, Inouye CJ,
+Hossain MJ, Dailey GM, Ellenberg J, Darzacq X, Tjian R, Hansen AS. Determining
+cellular CTCF and cohesin abundances to constrain 3D genome models. Elife. 2019
+Jun 17;8:e40164. doi: 10.7554/eLife.40164. PMID: 31205001; PMCID: PMC6579579.
+
+19: Zhang H, Emerson DJ, Gilgenast TG, Titus KR, Lan Y, Huang P, Zhang D, Wang
+H, Keller CA, Giardine B, Hardison RC, Phillips-Cremins JE, Blobel GA. Chromatin
+structure dynamics during the mitosis-to-G1 phase transition. Nature. 2019
+Dec;576(7785):158-162. doi: 10.1038/s41586-019-1778-y. Epub 2019 Nov 27. PMID:
+31776509; PMCID: PMC6895436.
+
+20: Mora A, Sandve GK, Gabrielsen OS, Eskeland R. In the loop: promoter-enhancer
+interactions and bioinformatics. Brief Bioinform. 2016 Nov;17(6):980-995. doi:
+10.1093/bib/bbv097. Epub 2015 Nov 19. PMID: 26586731; PMCID: PMC5142009.
+
+21: Chang LH, Ghosh S, Noordermeer D. TADs and Their Borders: Free Movement or
+Building a Wall? J Mol Biol. 2020 Feb 7;432(3):643-652. doi:
+10.1016/j.jmb.2019.11.025. Epub 2019 Dec 27. PMID: 31887284.
+
+22: Abramo K, Valton AL, Venev SV, Ozadam H, Fox AN, Dekker J. A chromosome
+folding intermediate at the condensin-to-cohesin transition during telophase.
+Nat Cell Biol. 2019 Nov;21(11):1393-1402. doi: 10.1038/s41556-019-0406-2. Epub
+2019 Nov 4. PMID: 31685986; PMCID: PMC6858582.
+
+23: Kaiser VB, Semple CA. Chromatin loop anchors are associated with genome
+instability in cancer and recombination hotspots in the germline. Genome Biol.
+2018 Jul 30;19(1):101. doi: 10.1186/s13059-018-1483-4. PMID: 30060743; PMCID:
+PMC6066925.
+
+24: Rowley MJ, Nichols MH, Lyu X, Ando-Kuri M, Rivera ISM, Hermetz K, Wang P,
+Ruan Y, Corces VG. Evolutionarily Conserved Principles Predict 3D Chromatin
+Organization. Mol Cell. 2017 Sep 7;67(5):837-852.e7. doi:
+10.1016/j.molcel.2017.07.022. Epub 2017 Aug 17. PMID: 28826674; PMCID:
+PMC5591081.
+
+25: Wutz G, Ladurner R, St Hilaire BG, Stocsits RR, Nagasaka K, Pignard B,
+Sanborn A, Tang W, Várnai C, Ivanov MP, Schoenfelder S, van der Lelij P, Huang
+X, Dürnberger G, Roitinger E, Mechtler K, Davidson IF, Fraser P, Lieberman-Aiden
+E, Peters JM. ESCO1 and CTCF enable formation of long chromatin loops by
+protecting cohesin<sup>STAG1</sup> from WAPL. Elife. 2020 Feb 17;9:e52091. doi:
+10.7554/eLife.52091. PMID: 32065581; PMCID: PMC7054000.
+
+26: Jiang Y, Loh YE, Rajarajan P, Hirayama T, Liao W, Kassim BS, Javidfar B,
+Hartley BJ, Kleofas L, Park RB, Labonte B, Ho SM, Chandrasekaran S, Do C,
+Ramirez BR, Peter CJ, C W JT, Safaie BM, Morishita H, Roussos P, Nestler EJ,
+Schaefer A, Tycko B, Brennand KJ, Yagi T, Shen L, Akbarian S. The
+methyltransferase SETDB1 regulates a large neuron-specific topological chromatin
+domain. Nat Genet. 2017 Aug;49(8):1239-1250. doi: 10.1038/ng.3906. Epub 2017 Jul
+3. PMID: 28671686; PMCID: PMC5560095.
+
+27: Fudenberg G, Imakaev M, Lu C, Goloborodko A, Abdennur N, Mirny LA. Formation
+of Chromosomal Domains by Loop Extrusion. Cell Rep. 2016 May 31;15(9):2038-49.
+doi: 10.1016/j.celrep.2016.04.085. Epub 2016 May 19. PMID: 27210764; PMCID:
+PMC4889513.
+
+28: Min H, Kong KA, Lee JY, Hong CP, Seo SH, Roh TY, Bae SS, Kim MH. CTCF-
+mediated Chromatin Loop for the Posterior Hoxc Gene Expression in MEF Cells.
+IUBMB Life. 2016 Jun;68(6):436-44. doi: 10.1002/iub.1504. Epub 2016 Apr 15.
+PMID: 27080371.
+
+29: Allahyar A, Vermeulen C, Bouwman BAM, Krijger PHL, Verstegen MJAM, Geeven G,
+van Kranenburg M, Pieterse M, Straver R, Haarhuis JHI, Jalink K, Teunissen H,
+Renkens IJ, Kloosterman WP, Rowland BD, de Wit E, de Ridder J, de Laat W.
+Enhancer hubs and loop collisions identified from single-allele topologies. Nat
+Genet. 2018 Aug;50(8):1151-1160. doi: 10.1038/s41588-018-0161-5. Epub 2018 Jul
+9. PMID: 29988121.
+
+30: Ma JH, Kim HP, Bok J, Shin JO. CTCF is required for maintenance of auditory
+hair cells and hearing function in the mouse cochlea. Biochem Biophys Res
+Commun. 2018 Sep 18;503(4):2646-2652. doi: 10.1016/j.bbrc.2018.08.017. Epub 2018
+Aug 11. PMID: 30107916.
+
+31: Hyle J, Zhang Y, Wright S, Xu B, Shao Y, Easton J, Tian L, Feng R, Xu P, Li
+C. Acute depletion of CTCF directly affects MYC regulation through loss of
+enhancer-promoter looping. Nucleic Acids Res. 2019 Jul 26;47(13):6699-6713. doi:
+10.1093/nar/gkz462. PMID: 31127282; PMCID: PMC6648894.
+
+32: Zhang X, Zhang Y, Ba Z, Kyritsis N, Casellas R, Alt FW. Fundamental roles of
+chromatin loop extrusion in antibody class switching. Nature. 2019
+Nov;575(7782):385-389. doi: 10.1038/s41586-019-1723-0. Epub 2019 Oct 30. PMID:
+31666703; PMCID: PMC6856444.
+
+33: Matthews BJ, Waxman DJ. Computational prediction of CTCF/cohesin-based
+intra-TAD loops that insulate chromatin contacts and gene expression in mouse
+liver. Elife. 2018 May 14;7:e34077. doi: 10.7554/eLife.34077. PMID: 29757144;
+PMCID: PMC5986275.
+
+34: Debruyne DN, Dries R, Sengupta S, Seruggia D, Gao Y, Sharma B, Huang H,
+Moreau L, McLane M, Day DS, Marco E, Chen T, Gray NS, Wong KK, Orkin SH, Yuan
+GC, Young RA, George RE. BORIS promotes chromatin regulatory interactions in
+treatment-resistant cancer cells. Nature. 2019 Aug;572(7771):676-680. doi:
+10.1038/s41586-019-1472-0. Epub 2019 Aug 7. PMID: 31391581; PMCID: PMC7010522.
+
+35: Zhang Y, Zhang X, Ba Z, Liang Z, Dring EW, Hu H, Lou J, Kyritsis N, Zurita
+J, Shamim MS, Presser Aiden A, Lieberman Aiden E, Alt FW. The fundamental role
+of chromatin loop extrusion in physiological V(D)J recombination. Nature. 2019
+Sep;573(7775):600-604. doi: 10.1038/s41586-019-1547-y. Epub 2019 Sep 11. PMID:
+31511698; PMCID: PMC6867615.
+
+36: Cheutin T, Cavalli G. The multiscale effects of polycomb mechanisms on 3D
+chromatin folding. Crit Rev Biochem Mol Biol. 2019 Oct;54(5):399-417. doi:
+10.1080/10409238.2019.1679082. Epub 2019 Nov 7. PMID: 31698957.
+
+37: Nishana M, Ha C, Rodriguez-Hernaez J, Ranjbaran A, Chio E, Nora EP, Badri
+SB, Kloetgen A, Bruneau BG, Tsirigos A, Skok JA. Defining the relative and
+combined contribution of CTCF and CTCFL to genomic regulation. Genome Biol. 2020
+May 11;21(1):108. doi: 10.1186/s13059-020-02024-0. Erratum in: Genome Biol. 2020
+Jun 2;21(1):133. PMID: 32393311; PMCID: PMC7212617.
+
+38: Henderson DJP, Miranda JL, Emerson BM. The β-NAD<sup>+</sup> salvage pathway
+and PKC-mediated signaling influence localized PARP-1 activity and CTCF
+Poly(ADP)ribosylation. Oncotarget. 2017 Aug 3;8(39):64698-64713. doi:
+10.18632/oncotarget.19841. PMID: 29029387; PMCID: PMC5630287.
+
+39: Jia Z, Li J, Ge X, Wu Y, Guo Y, Wu Q. Tandem CTCF sites function as
+insulators to balance spatial chromatin contacts and topological enhancer-
+promoter selection. Genome Biol. 2020 Mar 23;21(1):75. doi:
+10.1186/s13059-020-01984-7. PMID: 32293525; PMCID: PMC7087399.
+
+40: Lin SG, Ba Z, Alt FW, Zhang Y. RAG Chromatin Scanning During V(D)J
+Recombination and Chromatin Loop Extrusion are Related Processes. Adv Immunol.
+2018;139:93-135. doi: 10.1016/bs.ai.2018.07.001. Epub 2018 Aug 27. PMID:
+30249335.
+
+41: Haarhuis JHI, van der Weide RH, Blomen VA, Yáñez-Cuna JO, Amendola M, van
+Ruiten MS, Krijger PHL, Teunissen H, Medema RH, van Steensel B, Brummelkamp TR,
+de Wit E, Rowland BD. The Cohesin Release Factor WAPL Restricts Chromatin Loop
+Extension. Cell. 2017 May 4;169(4):693-707.e14. doi: 10.1016/j.cell.2017.04.013.
+PMID: 28475897; PMCID: PMC5422210.
+
+42: Kaaij LJT, Mohn F, van der Weide RH, de Wit E, Bühler M. The ChAHP Complex
+Counteracts Chromatin Looping at CTCF Sites that Emerged from SINE Expansions in
+Mouse. Cell. 2019 Sep 5;178(6):1437-1451.e14. doi: 10.1016/j.cell.2019.08.007.
+PMID: 31491387.
+
+43: Uusküla-Reimand L, Hou H, Samavarchi-Tehrani P, Rudan MV, Liang M, Medina-
+Rivera A, Mohammed H, Schmidt D, Schwalie P, Young EJ, Reimand J, Hadjur S,
+Gingras AC, Wilson MD. Topoisomerase II beta interacts with cohesin and CTCF at
+topological domain borders. Genome Biol. 2016 Aug 31;17(1):182. doi:
+10.1186/s13059-016-1043-8. PMID: 27582050; PMCID: PMC5006368.
+
+44: Hnisz D, Day DS, Young RA. Insulated Neighborhoods: Structural and
+Functional Units of Mammalian Gene Control. Cell. 2016 Nov 17;167(5):1188-1200.
+doi: 10.1016/j.cell.2016.10.024. PMID: 27863240; PMCID: PMC5125522.
+
+45: Sheng J, Luo C, Jiang Y, Hinds PW, Xu Z, Hu GF. Transcription of angiogenin
+and ribonuclease 4 is regulated by RNA polymerase III elements and a CCCTC
+binding factor (CTCF)-dependent intragenic chromatin loop. J Biol Chem. 2014 May
+2;289(18):12520-34. doi: 10.1074/jbc.M114.551762. Epub 2014 Mar 21. PMID:
+24659782; PMCID: PMC4007445.
+
+46: Jain S, Ba Z, Zhang Y, Dai HQ, Alt FW. CTCF-Binding Elements Mediate
+Accessibility of RAG Substrates During Chromatin Scanning. Cell. 2018 Jun
+28;174(1):102-116.e14. doi: 10.1016/j.cell.2018.04.035. Epub 2018 May 24. PMID:
+29804837; PMCID: PMC6026039.
+
+47: Isoda T, Moore AJ, He Z, Chandra V, Aida M, Denholtz M, Piet van Hamburg J,
+Fisch KM, Chang AN, Fahl SP, Wiest DL, Murre C. Non-coding Transcription
+Instructs Chromatin Folding and Compartmentalization to Dictate Enhancer-
+Promoter Communication and T Cell Fate. Cell. 2017 Sep 21;171(1):103-119.e18.
+doi: 10.1016/j.cell.2017.09.001. PMID: 28938112; PMCID: PMC5621651.
+
+48: Wen Z, Huang ZT, Zhang R, Peng C. ZNF143 is a regulator of chromatin loop.
+Cell Biol Toxicol. 2018 Dec;34(6):471-478. doi: 10.1007/s10565-018-9443-z. Epub
+2018 Aug 17. Erratum in: Cell Biol Toxicol. 2019 Feb;35(1):81-82. PMID:
+30120652.
+
+49: Hansen AS, Hsieh TS, Cattoglio C, Pustova I, Saldaña-Meyer R, Reinberg D,
+Darzacq X, Tjian R. Distinct Classes of Chromatin Loops Revealed by Deletion of
+an RNA-Binding Region in CTCF. Mol Cell. 2019 Nov 7;76(3):395-411.e13. doi:
+10.1016/j.molcel.2019.07.039. Epub 2019 Sep 12. PMID: 31522987; PMCID:
+PMC7251926.
+
+50: Ea V, Baudement MO, Lesne A, Forné T. Contribution of Topological Domains
+and Loop Formation to 3D Chromatin Organization. Genes (Basel). 2015 Jul
+27;6(3):734-50. doi: 10.3390/genes6030734. PMID: 26226004; PMCID: PMC4584327.
+
+51: Krietenstein N, Abraham S, Venev SV, Abdennur N, Gibcus J, Hsieh TS, Parsi
+KM, Yang L, Maehr R, Mirny LA, Dekker J, Rando OJ. Ultrastructural Details of
+Mammalian Chromosome Architecture. Mol Cell. 2020 May 7;78(3):554-565.e7. doi:
+10.1016/j.molcel.2020.03.003. Epub 2020 Mar 25. PMID: 32213324; PMCID:
+PMC7222625.
+
+52: Ribeiro de Almeida C, Stadhouders R, Thongjuea S, Soler E, Hendriks RW. DNA-
+binding factor CTCF and long-range gene interactions in V(D)J recombination and
+oncogene activation. Blood. 2012 Jun 28;119(26):6209-18. doi:
+10.1182/blood-2012-03-402586. Epub 2012 Apr 26. PMID: 22538856.
+
+53: Ye B, Yang G, Li Y, Zhang C, Wang Q, Yu G. ZNF143 in Chromatin Looping and
+Gene Regulation. Front Genet. 2020 Apr 7;11:338. doi: 10.3389/fgene.2020.00338.
+PMID: 32318100; PMCID: PMC7154149.
+
+54: Madabhushi R, Gao F, Pfenning AR, Pan L, Yamakawa S, Seo J, Rueda R, Phan
+TX, Yamakawa H, Pao PC, Stott RT, Gjoneska E, Nott A, Cho S, Kellis M, Tsai LH.
+Activity-Induced DNA Breaks Govern the Expression of Neuronal Early-Response
+Genes. Cell. 2015 Jun 18;161(7):1592-605. doi: 10.1016/j.cell.2015.05.032. Epub
+2015 Jun 4. PMID: 26052046; PMCID: PMC4886855.
+
+55: Fiorito E, Sharma Y, Gilfillan S, Wang S, Singh SK, Satheesh SV, Katika MR,
+Urbanucci A, Thiede B, Mills IG, Hurtado A. CTCF modulates Estrogen Receptor
+function through specific chromatin and nuclear matrix interactions. Nucleic
+Acids Res. 2016 Dec 15;44(22):10588-10602. doi: 10.1093/nar/gkw785. Epub 2016
+Sep 15. PMID: 27638884; PMCID: PMC5159541.
+
+56: Guo Y, Perez AA, Hazelett DJ, Coetzee GA, Rhie SK, Farnham PJ. CRISPR-
+mediated deletion of prostate cancer risk-associated CTCF loop anchors
+identifies repressive chromatin loops. Genome Biol. 2018 Oct 8;19(1):160. doi:
+10.1186/s13059-018-1531-0. PMID: 30296942; PMCID: PMC6176514.
+
+57: Choi NM, Feeney AJ. CTCF and ncRNA Regulate the Three-Dimensional Structure
+of Antigen Receptor Loci to Facilitate V(D)J Recombination. Front Immunol. 2014
+Feb 11;5:49. doi: 10.3389/fimmu.2014.00049. PMID: 24575097; PMCID: PMC3920468.
+
+58: Zhang R, Wang Y, Yang Y, Zhang Y, Ma J. Predicting CTCF-mediated chromatin
+loops using CTCF-MP. Bioinformatics. 2018 Jul 1;34(13):i133-i141. doi:
+10.1093/bioinformatics/bty248. PMID: 29949986; PMCID: PMC6022626.
+
+59: Gothe HJ, Bouwman BAM, Gusmao EG, Piccinno R, Petrosino G, Sayols S,
+Drechsel O, Minneker V, Josipovic N, Mizi A, Nielsen CF, Wagner EM, Takeda S,
+Sasanuma H, Hudson DF, Kindler T, Baranello L, Papantonis A, Crosetto N, Roukos
+V. Spatial Chromosome Folding and Active Transcription Drive DNA Fragility and
+Formation of Oncogenic MLL Translocations. Mol Cell. 2019 Jul
+25;75(2):267-283.e12. doi: 10.1016/j.molcel.2019.05.015. Epub 2019 Jun 12. PMID:
+31202576.
+
+60: Rawat P, Jalan M, Sadhu A, Kanaujia A, Srivastava M. Chromatin Domain
+Organization of the TCRb Locus and Its Perturbation by Ectopic CTCF Binding. Mol
+Cell Biol. 2017 Apr 14;37(9):e00557-16. doi: 10.1128/MCB.00557-16. PMID:
+28137913; PMCID: PMC5394274.
+
+61: Lyu X, Rowley MJ, Corces VG. Architectural Proteins and Pluripotency Factors
+Cooperate to Orchestrate the Transcriptional Response of hESCs to Temperature
+Stress. Mol Cell. 2018 Sep 20;71(6):940-955.e7. doi:
+10.1016/j.molcel.2018.07.012. Epub 2018 Aug 16. PMID: 30122536; PMCID:
+PMC6214669.
+
+62: Phanstiel DH, Van Bortle K, Spacek D, Hess GT, Shamim MS, Machol I, Love MI,
+Aiden EL, Bassik MC, Snyder MP. Static and Dynamic DNA Loops form AP-1-Bound
+Activation Hubs during Macrophage Development. Mol Cell. 2017 Sep
+21;67(6):1037-1048.e6. doi: 10.1016/j.molcel.2017.08.006. Epub 2017 Sep 7. PMID:
+28890333; PMCID: PMC5610110.
+
+63: Rhodes JDP, Feldmann A, Hernández-Rodríguez B, Díaz N, Brown JM, Fursova NA,
+Blackledge NP, Prathapan P, Dobrinic P, Huseyin MK, Szczurek A, Kruse K, Nasmyth
+KA, Buckle VJ, Vaquerizas JM, Klose RJ. Cohesin Disrupts Polycomb-Dependent
+Chromosome Interactions in Embryonic Stem Cells. Cell Rep. 2020 Jan
+21;30(3):820-835.e10. doi: 10.1016/j.celrep.2019.12.057. PMID: 31968256; PMCID:
+PMC6988126.
+
+64: Pugacheva EM, Kubo N, Loukinov D, Tajmul M, Kang S, Kovalchuk AL, Strunnikov
+AV, Zentner GE, Ren B, Lobanenkov VV. CTCF mediates chromatin looping via
+N-terminal domain-dependent cohesin retention. Proc Natl Acad Sci U S A. 2020
+Jan 28;117(4):2020-2031. doi: 10.1073/pnas.1911708117. Epub 2020 Jan 14. PMID:
+31937660; PMCID: PMC6995019.
+
+65: Nanni L, Ceri S, Logie C. Spatial patterns of CTCF sites define the anatomy
+of TADs and their boundaries. Genome Biol. 2020 Aug 12;21(1):197. doi:
+10.1186/s13059-020-02108-x. PMID: 32782014; PMCID: PMC7422557.
+
+66: Ibn-Salem J, Andrade-Navarro MA. 7C: Computational Chromosome Conformation
+Capture by Correlation of ChIP-seq at CTCF motifs. BMC Genomics. 2019 Oct
+25;20(1):777. doi: 10.1186/s12864-019-6088-0. PMID: 31653198; PMCID: PMC6814980.
+
+67: Hsieh TS, Cattoglio C, Slobodyanyuk E, Hansen AS, Rando OJ, Tjian R, Darzacq
+X. Resolving the 3D Landscape of Transcription-Linked Mammalian Chromatin
+Folding. Mol Cell. 2020 May 7;78(3):539-553.e8. doi:
+10.1016/j.molcel.2020.03.002. Epub 2020 Mar 25. PMID: 32213323; PMCID:
+PMC7703524.
+
+68: Battistelli C, Busanello A, Maione R. Functional interplay between MyoD and
+CTCF in regulating long-range chromatin interactions during differentiation. J
+Cell Sci. 2014 Sep 1;127(Pt 17):3757-67. doi: 10.1242/jcs.149427. Epub 2014 Jul
+7. PMID: 25002401.
+
+69: Aitken SJ, Ibarra-Soria X, Kentepozidou E, Flicek P, Feig C, Marioni JC,
+Odom DT. CTCF maintains regulatory homeostasis of cancer pathways. Genome Biol.
+2018 Aug 7;19(1):106. doi: 10.1186/s13059-018-1484-3. PMID: 30086769; PMCID:
+PMC6081938.
+
+70: Dall'Agnese A, Caputo L, Nicoletti C, di Iulio J, Schmitt A, Gatto S, Diao
+Y, Ye Z, Forcato M, Perera R, Bicciato S, Telenti A, Ren B, Puri PL.
+Transcription Factor-Directed Re-wiring of Chromatin Architecture for Somatic
+Cell Nuclear Reprogramming toward trans-Differentiation. Mol Cell. 2019 Nov
+7;76(3):453-472.e8. doi: 10.1016/j.molcel.2019.07.036. Epub 2019 Sep 10. PMID:
+31519520; PMCID: PMC6842445.
+
+71: Matthews BJ, Waxman DJ. Impact of 3D genome organization, guided by cohesin
+and CTCF looping, on sex-biased chromatin interactions and gene expression in
+mouse liver. Epigenetics Chromatin. 2020 Jul 17;13(1):30. doi:
+10.1186/s13072-020-00350-y. PMID: 32680543; PMCID: PMC7368777.
+
+72: Xu M, Zhao GN, Lv X, Liu G, Wang LY, Hao DL, Wang J, Liu DP, Liang CC. CTCF
+controls HOXA cluster silencing and mediates PRC2-repressive higher-order
+chromatin structure in NT2/D1 cells. Mol Cell Biol. 2014 Oct;34(20):3867-79.
+doi: 10.1128/MCB.00567-14. Epub 2014 Aug 18. PMID: 25135475; PMCID: PMC4187707.
+
+73: Hu G, Dong X, Gong S, Song Y, Hutchins AP, Yao H. Systematic screening of
+CTCF binding partners identifies that BHLHE40 regulates CTCF genome-wide
+distribution and long-range chromatin interactions. Nucleic Acids Res. 2020 Sep
+25;48(17):9606-9620. doi: 10.1093/nar/gkaa705. PMID: 32885250; PMCID:
+PMC7515718.
+
+74: Majumder P, Boss JM. CTCF controls expression and chromatin architecture of
+the human major histocompatibility complex class II locus. Mol Cell Biol. 2010
+Sep;30(17):4211-23. doi: 10.1128/MCB.00327-10. Epub 2010 Jun 28. PMID: 20584980;
+PMCID: PMC2937552.
+
+75: Hansen AS. CTCF as a boundary factor for cohesin-mediated loop extrusion:
+evidence for a multi-step mechanism. Nucleus. 2020 Dec;11(1):132-148. doi:
+10.1080/19491034.2020.1782024. PMID: 32631111; PMCID: PMC7566886.
+
+76: Cuadrado A, Giménez-Llorente D, Kojic A, Rodríguez-Corsino M, Cuartero Y,
+Martín-Serrano G, Gómez-López G, Marti-Renom MA, Losada A. Specific
+Contributions of Cohesin-SA1 and Cohesin-SA2 to TADs and Polycomb Domains in
+Embryonic Stem Cells. Cell Rep. 2019 Jun 18;27(12):3500-3510.e4. doi:
+10.1016/j.celrep.2019.05.078. PMID: 31216471; PMCID: PMC7057268.
+
+77: Mawhinney MT, Liu R, Lu F, Maksimoska J, Damico K, Marmorstein R, Lieberman
+PM, Urbanc B. CTCF-Induced Circular DNA Complexes Observed by Atomic Force
+Microscopy. J Mol Biol. 2018 Mar 16;430(6):759-776. doi:
+10.1016/j.jmb.2018.01.012. Epub 2018 Jan 31. PMID: 29409905; PMCID: PMC5860984.
+
+78: Chen XF, Zhu DL, Yang M, Hu WX, Duan YY, Lu BJ, Rong Y, Dong SS, Hao RH,
+Chen JB, Chen YX, Yao S, Thynn HN, Guo Y, Yang TL. An Osteoporosis Risk SNP at
+1p36.12 Acts as an Allele-Specific Enhancer to Modulate LINC00339 Expression via
+Long-Range Loop Formation. Am J Hum Genet. 2018 May 3;102(5):776-793. doi:
+10.1016/j.ajhg.2018.03.001. Epub 2018 Apr 26. PMID: 29706346; PMCID: PMC5986728.
+
+79: Rhie SK, Perez AA, Lay FD, Schreiner S, Shi J, Polin J, Farnham PJ. A high-
+resolution 3D epigenomic map reveals insights into the creation of the prostate
+cancer transcriptome. Nat Commun. 2019 Sep 12;10(1):4154. doi:
+10.1038/s41467-019-12079-8. PMID: 31515496; PMCID: PMC6742760.
+
+80: Chen L, Carico Z, Shih HY, Krangel MS. A discrete chromatin loop in the
+mouse Tcra-Tcrd locus shapes the TCRδ and TCRα repertoires. Nat Immunol. 2015
+Oct;16(10):1085-93. doi: 10.1038/ni.3232. Epub 2015 Aug 10. PMID: 26258942;
+PMCID: PMC4575630.
+
+81: Gosalia N, Neems D, Kerschner JL, Kosak ST, Harris A. Architectural proteins
+CTCF and cohesin have distinct roles in modulating the higher order structure
+and expression of the CFTR locus. Nucleic Acids Res. 2014 Sep;42(15):9612-22.
+doi: 10.1093/nar/gku648. Epub 2014 Jul 31. PMID: 25081205; PMCID: PMC4150766.
+
+82: Fan H, Lv P, Huo X, Wu J, Wang Q, Cheng L, Liu Y, Tang QQ, Zhang L, Zhang F,
+Zheng X, Wu H, Wen B. The nuclear matrix protein HNRNPU maintains 3D genome
+architecture globally in mouse hepatocytes. Genome Res. 2018 Feb;28(2):192-202.
+doi: 10.1101/gr.224576.117. Epub 2017 Dec 22. PMID: 29273625; PMCID: PMC5793783.
+
+83: Gao D, Zhu B, Cao X, Zhang M, Wang X. Roles of NIPBL in maintenance of
+genome stability. Semin Cell Dev Biol. 2019 Jun;90:181-186. doi:
+10.1016/j.semcdb.2018.08.005. Epub 2018 Aug 17. PMID: 30096364.
+
+84: Ba Z, Lou J, Ye AY, Dai HQ, Dring EW, Lin SG, Jain S, Kyritsis N, Kieffer-
+Kwon KR, Casellas R, Alt FW. CTCF orchestrates long-range cohesin-driven V(D)J
+recombinational scanning. Nature. 2020 Oct;586(7828):305-310. doi:
+10.1038/s41586-020-2578-0. Epub 2020 Jul 27. PMID: 32717742; PMCID: PMC7554077.
+
+85: Jabbari K, Chakraborty M, Wiehe T. DNA sequence-dependent chromatin
+architecture and nuclear hubs formation. Sci Rep. 2019 Oct 10;9(1):14646. doi:
+10.1038/s41598-019-51036-9. PMID: 31601866; PMCID: PMC6787200.
+
+86: Tycko J, Wainberg M, Marinov GK, Ursu O, Hess GT, Ego BK, Aradhana, Li A,
+Truong A, Trevino AE, Spees K, Yao D, Kaplow IM, Greenside PG, Morgens DW,
+Phanstiel DH, Snyder MP, Bintu L, Greenleaf WJ, Kundaje A, Bassik MC. Mitigation
+of off-target toxicity in CRISPR-Cas9 screens for essential non-coding elements.
+Nat Commun. 2019 Sep 6;10(1):4063. doi: 10.1038/s41467-019-11955-7. PMID:
+31492858; PMCID: PMC6731277.
+
+87: Chen L, Zhao L, Alt FW, Krangel MS. An Ectopic CTCF Binding Element Inhibits
+Tcrd Rearrangement by Limiting Contact between Vδ and Dδ Gene Segments. J
+Immunol. 2016 Oct 15;197(8):3188-3197. doi: 10.4049/jimmunol.1601124. Epub 2016
+Sep 9. PMID: 27613698; PMCID: PMC5380924.
+
+88: Rowley MJ, Lyu X, Rana V, Ando-Kuri M, Karns R, Bosco G, Corces VG.
+Condensin II Counteracts Cohesin and RNA Polymerase II in the Establishment of
+3D Chromatin Organization. Cell Rep. 2019 Mar 12;26(11):2890-2903.e3. doi:
+10.1016/j.celrep.2019.01.116. PMID: 30865881; PMCID: PMC6424357.
+
+89: Burke LJ, Zhang R, Bartkuhn M, Tiwari VK, Tavoosidana G, Kurukuti S, Weth C,
+Leers J, Galjart N, Ohlsson R, Renkawitz R. CTCF binding and higher order
+chromatin structure of the H19 locus are maintained in mitotic chromatin. EMBO
+J. 2005 Sep 21;24(18):3291-300. doi: 10.1038/sj.emboj.7600793. Epub 2005 Aug 18.
+PMID: 16107875; PMCID: PMC1224683.
+
+90: Matthews NE, White R. Chromatin Architecture in the Fly: Living without
+CTCF/Cohesin Loop Extrusion?: Alternating Chromatin States Provide a Basis for
+Domain Architecture in Drosophila. Bioessays. 2019 Sep;41(9):e1900048. doi:
+10.1002/bies.201900048. Epub 2019 Jul 1. PMID: 31264253.
+
+91: Loguercio S, Barajas-Mora EM, Shih HY, Krangel MS, Feeney AJ. Variable
+Extent of Lineage-Specificity and Developmental Stage-Specificity of Cohesin and
+CCCTC-Binding Factor Binding Within the Immunoglobulin and T Cell Receptor Loci.
+Front Immunol. 2018 Mar 8;9:425. doi: 10.3389/fimmu.2018.00425. PMID: 29593713;
+PMCID: PMC5859386.
+
+92: Luo Z, Wang X, Jiang H, Wang R, Chen J, Chen Y, Xu Q, Cao J, Gong X, Wu J,
+Yang Y, Li W, Han C, Cheng CY, Rosenfeld MG, Sun F, Song X. Reorganized 3D
+Genome Structures Support Transcriptional Regulation in Mouse Spermatogenesis.
+iScience. 2020 Apr 24;23(4):101034. doi: 10.1016/j.isci.2020.101034. Epub 2020
+Apr 5. PMID: 32315832; PMCID: PMC7170994.
+
+93: Sikorska N, Sexton T. Defining Functionally Relevant Spatial Chromatin
+Domains: It is a TAD Complicated. J Mol Biol. 2020 Feb 7;432(3):653-664. doi:
+10.1016/j.jmb.2019.12.006. Epub 2019 Dec 18. PMID: 31863747.
+
+94: Hou C, Zhao H, Tanimoto K, Dean A. CTCF-dependent enhancer-blocking by
+alternative chromatin loop formation. Proc Natl Acad Sci U S A. 2008 Dec
+23;105(51):20398-403. doi: 10.1073/pnas.0808506106. Epub 2008 Dec 12. PMID:
+19074263; PMCID: PMC2629272.
+
+95: Sun H, Yang X, Liang L, Zhang M, Li Y, Chen J, Wang F, Yang T, Meng F, Lai
+X, Li C, He J, He M, Xu Q, Li Q, Lin L, Pei D, Zheng H. Metabolic switch and
+epithelial-mesenchymal transition cooperate to regulate pluripotency. EMBO J.
+2020 Apr 15;39(8):e102961. doi: 10.15252/embj.2019102961. Epub 2020 Feb 24.
+PMID: 32090361; PMCID: PMC7156961.
+
+96: Höflmayer D, Steinhoff A, Hube-Magg C, Kluth M, Simon R, Burandt E,
+Tsourlakis MC, Minner S, Sauter G, Büscheck F, Wilczak W, Steurer S, Huland H,
+Graefen M, Haese A, Heinzer H, Schlomm T, Jacobsen F, Hinsch A, Poos AM, Oswald
+M, Rippe K, König R, Schroeder C. Expression of CCCTC-binding factor (CTCF) is
+linked to poor prognosis in prostate cancer. Mol Oncol. 2020 Jan;14(1):129-138.
+doi: 10.1002/1878-0261.12597. Epub 2019 Nov 29. PMID: 31736271; PMCID:
+PMC6944131.
+
+97: Brackley CA, Johnson J, Michieletto D, Morozov AN, Nicodemi M, Cook PR,
+Marenduzzo D. Extrusion without a motor: a new take on the loop extrusion model
+of genome organization. Nucleus. 2018 Jan 1;9(1):95-103. doi:
+10.1080/19491034.2017.1421825. PMID: 29300120; PMCID: PMC5973195.
+
+98: Pękowska A, Klaus B, Xiang W, Severino J, Daigle N, Klein FA, Oleś M,
+Casellas R, Ellenberg J, Steinmetz LM, Bertone P, Huber W. Gain of CTCF-Anchored
+Chromatin Loops Marks the Exit from Naive Pluripotency. Cell Syst. 2018 Nov
+28;7(5):482-495.e10. doi: 10.1016/j.cels.2018.09.003. Epub 2018 Nov 7. PMID:
+30414923; PMCID: PMC6327227.
+
+99: Hou C, Dale R, Dean A. Cell type specificity of chromatin organization
+mediated by CTCF and cohesin. Proc Natl Acad Sci U S A. 2010 Feb
+23;107(8):3651-6. doi: 10.1073/pnas.0912087107. Epub 2010 Feb 2. PMID: 20133600;
+PMCID: PMC2840441.
+
+100: Xiang JF, Yin QF, Chen T, Zhang Y, Zhang XO, Wu Z, Zhang S, Wang HB, Ge J,
+Lu X, Yang L, Chen LL. Human colorectal cancer-specific CCAT1-L lncRNA regulates
+long-range chromatin interactions at the MYC locus. Cell Res. 2014
+May;24(5):513-31. doi: 10.1038/cr.2014.35. Epub 2014 Mar 25. Erratum in: Cell
+Res. 2014 Sep;24(9):1150. PMID: 24662484; PMCID: PMC4011346.
+
+101: Justice M, Carico ZM, Stefan HC, Dowen JM. A WIZ/Cohesin/CTCF Complex
+Anchors DNA Loops to Define Gene Expression and Cell Identity. Cell Rep. 2020
+Apr 14;31(2):107503. doi: 10.1016/j.celrep.2020.03.067. PMID: 32294452; PMCID:
+PMC7212317.
+
+102: Hou Y, Li F, Zhang R, Li S, Liu H, Qin ZS, Sun X. Integrative
+characterization of G-Quadruplexes in the three-dimensional chromatin structure.
+Epigenetics. 2019 Sep;14(9):894-911. doi: 10.1080/15592294.2019.1621140. Epub
+2019 Jun 10. PMID: 31177910; PMCID: PMC6691997.
+
+103: Oti M, Falck J, Huynen MA, Zhou H. CTCF-mediated chromatin loops enclose
+inducible gene regulatory domains. BMC Genomics. 2016 Mar 22;17:252. doi:
+10.1186/s12864-016-2516-6. PMID: 27004515; PMCID: PMC4804521.
+
+104: Shin JO, Lee JJ, Kim M, Chung YW, Min H, Kim JY, Kim HP, Bok J. CTCF
+Regulates Otic Neurogenesis via Histone Modification in the <i>Neurog1</i>
+Locus. Mol Cells. 2018 Jul 31;41(7):695-702. doi: 10.14348/molcells.2018.0230.
+Epub 2018 Jul 11. PMID: 30008200; PMCID: PMC6078853.
+
+105: Tark-Dame M, Jerabek H, Manders EM, van der Wateren IM, Heermann DW, van
+Driel R. Depletion of the chromatin looping proteins CTCF and cohesin causes
+chromatin compaction: insight into chromatin folding by polymer modelling. PLoS
+Comput Biol. 2014 Oct 9;10(10):e1003877. doi: 10.1371/journal.pcbi.1003877.
+Erratum in: PLoS Comput Biol. 2016 Jan;12(1):e1004716. van der Wateren, Ingrid M
+[added]. PMID: 25299688; PMCID: PMC4191888.
+
+106: Van Bortle K, Phanstiel DH, Snyder MP. Topological organization and dynamic
+regulation of human tRNA genes during macrophage differentiation. Genome Biol.
+2017 Sep 20;18(1):180. doi: 10.1186/s13059-017-1310-3. PMID: 28931413; PMCID:
+PMC5607496.
+
+107: Nikolaev LG, Akopov SB, Didych DA, Sverdlov ED. Vertebrate Protein CTCF and
+its Multiple Roles in a Large-Scale Regulation of Genome Activity. Curr
+Genomics. 2009 Aug;10(5):294-302. doi: 10.2174/138920209788921038. PMID:
+20119526; PMCID: PMC2729993.
+
+108: Amaral PP, Leonardi T, Han N, Viré E, Gascoigne DK, Arias-Carrasco R,
+Büscher M, Pandolfini L, Zhang A, Pluchino S, Maracaja-Coutinho V, Nakaya HI,
+Hemberg M, Shiekhattar R, Enright AJ, Kouzarides T. Genomic positional
+conservation identifies topological anchor point RNAs linked to developmental
+loci. Genome Biol. 2018 Mar 15;19(1):32. doi: 10.1186/s13059-018-1405-5. PMID:
+29540241; PMCID: PMC5853149.
+
+109: Qiu X, Kumari G, Gerasimova T, Du H, Labaran L, Singh A, De S, Wood WH 3rd,
+Becker KG, Zhou W, Ji H, Sen R. Sequential Enhancer Sequestration Dysregulates
+Recombination Center Formation at the IgH Locus. Mol Cell. 2018 Apr
+5;70(1):21-33.e6. doi: 10.1016/j.molcel.2018.02.020. Epub 2018 Mar 22. PMID:
+29576529; PMCID: PMC6003238.
+
+110: Neme A, Seuter S, Carlberg C. Vitamin D-dependent chromatin association of
+CTCF in human monocytes. Biochim Biophys Acta. 2016 Nov;1859(11):1380-1388. doi:
+10.1016/j.bbagrm.2016.08.008. Epub 2016 Aug 25. PMID: 27569350.
+
+111: Pentland I, Campos-León K, Cotic M, Davies KJ, Wood CD, Groves IJ, Burley
+M, Coleman N, Stockton JD, Noyvert B, Beggs AD, West MJ, Roberts S, Parish JL.
+Disruption of CTCF-YY1-dependent looping of the human papillomavirus genome
+activates differentiation-induced viral oncogene transcription. PLoS Biol. 2018
+Oct 25;16(10):e2005752. doi: 10.1371/journal.pbio.2005752. PMID: 30359362;
+PMCID: PMC6219814.
+
+112: Li T, Hu JF, Qiu X, Ling J, Chen H, Wang S, Hou A, Vu TH, Hoffman AR. CTCF
+regulates allelic expression of Igf2 by orchestrating a promoter-polycomb
+repressive complex 2 intrachromosomal loop. Mol Cell Biol. 2008
+Oct;28(20):6473-82. doi: 10.1128/MCB.00204-08. Epub 2008 Jul 28. PMID: 18662993;
+PMCID: PMC2577414.
+
+113: D'Ippolito AM, McDowell IC, Barrera A, Hong LK, Leichter SM, Bartelt LC,
+Vockley CM, Majoros WH, Safi A, Song L, Gersbach CA, Crawford GE, Reddy TE. Pre-
+established Chromatin Interactions Mediate the Genomic Response to
+Glucocorticoids. Cell Syst. 2018 Aug 22;7(2):146-160.e7. doi:
+10.1016/j.cels.2018.06.007. Epub 2018 Jul 18. PMID: 30031775.
+
+114: Chen D, Lei EP. Function and regulation of chromatin insulators in dynamic
+genome organization. Curr Opin Cell Biol. 2019 Jun;58:61-68. doi:
+10.1016/j.ceb.2019.02.001. Epub 2019 Mar 12. PMID: 30875678; PMCID: PMC6692201.
+
+115: Zhang D, Huang P, Sharma M, Keller CA, Giardine B, Zhang H, Gilgenast TG,
+Phillips-Cremins JE, Hardison RC, Blobel GA. Alteration of genome folding via
+contact domain boundary insertion. Nat Genet. 2020 Oct;52(10):1076-1087. doi:
+10.1038/s41588-020-0680-8. Epub 2020 Aug 31. PMID: 32868908; PMCID: PMC7541666.
+
+116: Schalbetter SA, Fudenberg G, Baxter J, Pollard KS, Neale MJ. Principles of
+meiotic chromosome assembly revealed in S. cerevisiae. Nat Commun. 2019 Oct
+22;10(1):4795. doi: 10.1038/s41467-019-12629-0. PMID: 31641121; PMCID:
+PMC6805904.
+
+117: Chen HS, De Leo A, Wang Z, Kerekovic A, Hills R, Lieberman PM. BET-
+Inhibitors Disrupt Rad21-Dependent Conformational Control of KSHV Latency. PLoS
+Pathog. 2017 Jan 20;13(1):e1006100. doi: 10.1371/journal.ppat.1006100. PMID:
+28107481; PMCID: PMC5287475.
+
+118: Guibert S, Zhao Z, Sjölinder M, Göndör A, Fernandez A, Pant V, Ohlsson R.
+CTCF-binding sites within the H19 ICR differentially regulate local chromatin
+structures and cis-acting functions. Epigenetics. 2012 Apr;7(4):361-9. doi:
+10.4161/epi.19487. Epub 2012 Apr 1. PMID: 22415163.
+
+119: Iglesias-Platas I, Court F, Camprubi C, Sparago A, Guillaumet-Adkins A,
+Martin-Trujillo A, Riccio A, Moore GE, Monk D. Imprinting at the PLAGL1 domain
+is contained within a 70-kb CTCF/cohesin-mediated non-allelic chromatin loop.
+Nucleic Acids Res. 2013 Feb 1;41(4):2171-9. doi: 10.1093/nar/gks1355. Epub 2013
+Jan 7. PMID: 23295672; PMCID: PMC3575839.
+
+120: Barutcu AR, Maass PG, Lewandowski JP, Weiner CL, Rinn JL. A TAD boundary is
+preserved upon deletion of the CTCF-rich Firre locus. Nat Commun. 2018 Apr
+13;9(1):1444. doi: 10.1038/s41467-018-03614-0. PMID: 29654311; PMCID:
+PMC5899154.
+
+121: Wu Q, Liu P, Wang L. Many facades of CTCF unified by its coding for three-
+dimensional genome architecture. J Genet Genomics. 2020 Sep
+1:S1673-8527(20)30128-4. doi: 10.1016/j.jgg.2020.06.008. Epub ahead of print.
+PMID: 33187878.
+
+122: Follows GA, Ferreira R, Janes ME, Spensberger D, Cambuli F, Chaney AF,
+Kinston SJ, Landry JR, Green AR, Göttgens B. Mapping and functional
+characterisation of a CTCF-dependent insulator element at the 3' border of the
+murine Scl transcriptional domain. PLoS One. 2012;7(3):e31484. doi:
+10.1371/journal.pone.0031484. Epub 2012 Mar 1. PMID: 22396734; PMCID:
+PMC3291548.
+
+123: Tsujimura T, Takase O, Yoshikawa M, Sano E, Hayashi M, Takato T, Toyoda A,
+Okano H, Hishikawa K. Control of directionality of chromatin folding for the
+inter- and intra-domain contacts at the Tfap2c-Bmp7 locus. Epigenetics
+Chromatin. 2018 Sep 14;11(1):51. doi: 10.1186/s13072-018-0221-1. PMID: 30213272;
+PMCID: PMC6137755.
+
+124: Bonato A, Brackley CA, Johnson J, Michieletto D, Marenduzzo D. Chromosome
+compaction and chromatin stiffness enhance diffusive loop extrusion by slip-link
+proteins. Soft Matter. 2020 Mar 4;16(9):2406-2414. doi: 10.1039/c9sm01875a.
+PMID: 32067018.
+
+125: Buckle A, Brackley CA, Boyle S, Marenduzzo D, Gilbert N. Polymer
+Simulations of Heteromorphic Chromatin Predict the 3D Folding of Complex Genomic
+Loci. Mol Cell. 2018 Nov 15;72(4):786-797.e11. doi:
+10.1016/j.molcel.2018.09.016. Epub 2018 Oct 18. PMID: 30344096; PMCID:
+PMC6242782.
+
+126: Fudenberg G, Abdennur N, Imakaev M, Goloborodko A, Mirny LA. Emerging
+Evidence of Chromosome Folding by Loop Extrusion. Cold Spring Harb Symp Quant
+Biol. 2017;82:45-55. doi: 10.1101/sqb.2017.82.034710. Epub 2018 May 4. PMID:
+29728444; PMCID: PMC6512960.
+
+127: Wallace JA, Felsenfeld G. We gather together: insulators and genome
+organization. Curr Opin Genet Dev. 2007 Oct;17(5):400-7. doi:
+10.1016/j.gde.2007.08.005. Epub 2007 Oct 24. PMID: 17913488; PMCID: PMC2215060.
+
+128: Brown JM, Roberts NA, Graham B, Waithe D, Lagerholm C, Telenius JM, De
+Ornellas S, Oudelaar AM, Scott C, Szczerbal I, Babbs C, Kassouf MT, Hughes JR,
+Higgs DR, Buckle VJ. A tissue-specific self-interacting chromatin domain forms
+independently of enhancer-promoter interactions. Nat Commun. 2018 Sep
+21;9(1):3849. doi: 10.1038/s41467-018-06248-4. PMID: 30242161; PMCID:
+PMC6155075.
+
+129: Chaumeil J, Skok JA. The role of CTCF in regulating V(D)J recombination.
+Curr Opin Immunol. 2012 Apr;24(2):153-9. doi: 10.1016/j.coi.2012.01.003. Epub
+2012 Mar 15. PMID: 22424610; PMCID: PMC3444155.
+
+130: Barrington C, Finn R, Hadjur S. Cohesin biology meets the loop extrusion
+model. Chromosome Res. 2017 Mar;25(1):51-60. doi: 10.1007/s10577-017-9550-3.
+Epub 2017 Feb 16. PMID: 28210885; PMCID: PMC5346154.
+
+131: Tanimoto K, Matsuzaki H, Okamura E, Ushiki A, Fukamizu A, Engel JD.
+Transvection-like interchromosomal interaction is not observed at the
+transcriptional level when tested in the Rosa26 locus in mouse. PLoS One. 2019
+Feb 14;14(2):e0203099. doi: 10.1371/journal.pone.0203099. PMID: 30763343; PMCID:
+PMC6375575.
+
+132: Qu H, Su Y, Yu L, Zhao H, Xin C. Wild-type p53 regulates OTOP2
+transcription through DNA loop alteration of the promoter in colorectal cancer.
+FEBS Open Bio. 2018 Dec 20;9(1):26-34. doi: 10.1002/2211-5463.12554. PMID:
+30652071; PMCID: PMC6325572.
+
+133: Ayala-Ortega E, Arzate-Mejía R, Pérez-Molina R, González-Buendía E, Meier
+K, Guerrero G, Recillas-Targa F. Epigenetic silencing of miR-181c by DNA
+methylation in glioblastoma cell lines. BMC Cancer. 2016 Mar 16;16:226. doi:
+10.1186/s12885-016-2273-6. PMID: 26983574; PMCID: PMC4794844.
+
+134: Goel VY, Hansen AS. The macro and micro of chromosome conformation capture.
+Wiley Interdiscip Rev Dev Biol. 2020 Sep 28:e395. doi: 10.1002/wdev.395. Epub
+ahead of print. PMID: 32987449.
+
+135: Davidson IF, Goetz D, Zaczek MP, Molodtsov MI, Huis In 't Veld PJ,
+Weissmann F, Litos G, Cisneros DA, Ocampo-Hafalla M, Ladurner R, Uhlmann F,
+Vaziri A, Peters JM. Rapid movement and transcriptional re-localization of human
+cohesin on DNA. EMBO J. 2016 Dec 15;35(24):2671-2685. doi:
+10.15252/embj.201695402. Epub 2016 Oct 31. PMID: 27799150; PMCID: PMC5167347.
+
+136: Zhang L, Song D, Zhu B, Wang X. The role of nuclear matrix protein HNRNPU
+in maintaining the architecture of 3D genome. Semin Cell Dev Biol. 2019
+Jun;90:161-167. doi: 10.1016/j.semcdb.2018.07.006. Epub 2018 Jul 20. PMID:
+29981443.
+
+137: Matsushima Y, Sakamoto N, Awazu A. Insulator Activities of Nucleosome-
+Excluding DNA Sequences without Bound Chromatin Looping Proteins. J Phys Chem B.
+2019 Feb 7;123(5):1035-1043. doi: 10.1021/acs.jpcb.8b10518. Epub 2019 Jan 23.
+PMID: 30620587.
+
+138: Jiang Y, Huang J, Lun K, Li B, Zheng H, Li Y, Zhou R, Duan W, Wang C, Feng
+Y, Yao H, Li C, Ji X. Genome-wide analyses of chromatin interactions after the
+loss of Pol I, Pol II, and Pol III. Genome Biol. 2020 Jul 2;21(1):158. doi:
+10.1186/s13059-020-02067-3. PMID: 32616013; PMCID: PMC7331254.
+
+139: Racko D, Benedetti F, Dorier J, Stasiak A. Transcription-induced
+supercoiling as the driving force of chromatin loop extrusion during formation
+of TADs in interphase chromosomes. Nucleic Acids Res. 2018 Feb
+28;46(4):1648-1660. doi: 10.1093/nar/gkx1123. PMID: 29140466; PMCID: PMC5829651.
+
+140: Xin X, Wang C, Lin Z, Xu J, Lu Y, Meng Q, Li X, Yang Y, Zheng Q, Gui X, Li
+T, Pu H, Xiong W, Li J, Jia S, Lu D. Inflammatory-Related P62 Triggers Malignant
+Transformation of Mesenchymal Stem Cells through the Cascade of CUDR-CTCF-IGFII-
+RAS Signaling. Mol Ther Nucleic Acids. 2018 Jun 1;11:367-381. doi:
+10.1016/j.omtn.2018.03.002. Epub 2018 Mar 9. PMID: 29858072; PMCID: PMC5992448.
+
+141: Gutierrez-Perez I, Rowley MJ, Lyu X, Valadez-Graham V, Vallejo DM,
+Ballesta-Illan E, Lopez-Atalaya JP, Kremsky I, Caparros E, Corces VG, Dominguez
+M. Ecdysone-Induced 3D Chromatin Reorganization Involves Active Enhancers Bound
+by Pipsqueak and Polycomb. Cell Rep. 2019 Sep 3;28(10):2715-2727.e5. doi:
+10.1016/j.celrep.2019.07.096. PMID: 31484080; PMCID: PMC6754745.
+
+142: Ulianov SV, Tachibana-Konwalski K, Razin SV. Single-cell Hi-C bridges
+microscopy and genome-wide sequencing approaches to study 3D chromatin
+organization. Bioessays. 2017 Oct;39(10). doi: 10.1002/bies.201700104. Epub 2017
+Aug 9. PMID: 28792605.
+
+143: Zlatanova J, Caiafa P. CCCTC-binding factor: to loop or to bridge. Cell Mol
+Life Sci. 2009 May;66(10):1647-60. doi: 10.1007/s00018-009-8647-z. PMID:
+19137260.
+
+144: Srivastava S, Dhawan J, Mishra RK. Epigenetic mechanisms and boundaries in
+the regulation of mammalian Hox clusters. Mech Dev. 2015 Nov;138 Pt 2:160-169.
+doi: 10.1016/j.mod.2015.07.015. Epub 2015 Aug 6. PMID: 26254900.
+
+145: Wang T, Hoekzema K, Vecchio D, Wu H, Sulovari A, Coe BP, Gillentine MA,
+Wilfert AB, Perez-Jurado LA, Kvarnung M, Sleyp Y, Earl RK, Rosenfeld JA,
+Geisheker MR, Han L, Du B, Barnett C, Thompson E, Shaw M, Carroll R, Friend K,
+Catford R, Palmer EE, Zou X, Ou J, Li H, Guo H, Gerdts J, Avola E, Calabrese G,
+Elia M, Greco D, Lindstrand A, Nordgren A, Anderlid BM, Vandeweyer G, Van Dijck
+A, Van der Aa N, McKenna B, Hancarova M, Bendova S, Havlovicova M, Malerba G,
+Bernardina BD, Muglia P, van Haeringen A, Hoffer MJV, Franke B, Cappuccio G,
+Delatycki M, Lockhart PJ, Manning MA, Liu P, Scheffer IE, Brunetti-Pierri N,
+Rommelse N, Amaral DG, Santen GWE, Trabetti E, Sedláček Z, Michaelson JJ, Pierce
+K, Courchesne E, Kooy RF; SPARK Consortium, Nordenskjöld M, Romano C, Peeters H,
+Bernier RA, Gecz J, Xia K, Eichler EE. Large-scale targeted sequencing
+identifies risk genes for neurodevelopmental disorders. Nat Commun. 2020 Oct
+1;11(1):4932. doi: 10.1038/s41467-020-18723-y. Erratum in: Nat Commun. 2020 Oct
+21;11(1):5398. PMID: 33004838; PMCID: PMC7530681.
+
+146: Nagy G, Czipa E, Steiner L, Nagy T, Pongor S, Nagy L, Barta E. Motif
+oriented high-resolution analysis of ChIP-seq data reveals the topological order
+of CTCF and cohesin proteins on DNA. BMC Genomics. 2016 Aug 15;17(1):637. doi:
+10.1186/s12864-016-2940-7. PMID: 27526722; PMCID: PMC4986361.
+
+147: Park JH, Choi Y, Song MJ, Park K, Lee JJ, Kim HP. Dynamic Long-Range
+Chromatin Interaction Controls Expression of IL-21 in CD4+ T Cells. J Immunol.
+2016 May 15;196(10):4378-89. doi: 10.4049/jimmunol.1500636. Epub 2016 Apr 11.
+PMID: 27067007.
+
+148: Liu L, Heermann DW. The interaction of DNA with multi-Cys2His2 zinc finger
+proteins. J Phys Condens Matter. 2015 Feb 18;27(6):064107. doi:
+10.1088/0953-8984/27/6/064107. Epub 2015 Jan 7. PMID: 25563438.
+
+149: Eagen KP, Aiden EL, Kornberg RD. Polycomb-mediated chromatin loops revealed
+by a subkilobase-resolution chromatin interaction map. Proc Natl Acad Sci U S A.
+2017 Aug 15;114(33):8764-8769. doi: 10.1073/pnas.1701291114. Epub 2017 Aug 1.
+PMID: 28765367; PMCID: PMC5565414.
+
+150: Tempera I, Klichinsky M, Lieberman PM. EBV latency types adopt alternative
+chromatin conformations. PLoS Pathog. 2011 Jul;7(7):e1002180. doi:
+10.1371/journal.ppat.1002180. Epub 2011 Jul 28. PMID: 21829357; PMCID:
+PMC3145795.
+
+151: Choudhary MN, Friedman RZ, Wang JT, Jang HS, Zhuo X, Wang T. Co-opted
+transposons help perpetuate conserved higher-order chromosomal structures.
+Genome Biol. 2020 Jan 24;21(1):16. doi: 10.1186/s13059-019-1916-8. Erratum in:
+Genome Biol. 2020 Feb 7;21(1):28. PMID: 31973766; PMCID: PMC6979391.
+
+152: Ma Z, Li M, Roy S, Liu KJ, Romine ML, Lane DC, Patel SK, Cai HN. Chromatin
+boundary elements organize genomic architecture and developmental gene
+regulation in Drosophila Hox clusters. World J Biol Chem. 2016 Aug
+26;7(3):223-30. doi: 10.4331/wjbc.v7.i3.223. PMID: 27621770; PMCID: PMC4997523.
+
+153: Akopov SB, Ruda VM, Batrak VV, Vetchinova AS, Chernov IP, Nikolaev LG, Bode
+J, Sverdlov ED. Identification, genome mapping, and CTCF binding of potential
+insulators within the FXYD5-COX7A1 locus of human chromosome 19q13.12. Mamm
+Genome. 2006 Oct;17(10):1042-9. doi: 10.1007/s00335-006-0037-3. Epub 2006 Oct 3.
+PMID: 17019650.
+
+154: Higgins GA, Allyn-Feuer A, Athey BD. Epigenomic mapping and effect sizes of
+noncoding variants associated with psychotropic drug response. Pharmacogenomics.
+2015;16(14):1565-83. doi: 10.2217/pgs.15.105. Epub 2015 Sep 4. PMID: 26340055.
+
+155: Chen HS, Martin KA, Lu F, Lupey LN, Mueller JM, Lieberman PM, Tempera I.
+Epigenetic deregulation of the LMP1/LMP2 locus of Epstein-Barr virus by mutation
+of a single CTCF-cohesin binding site. J Virol. 2014 Feb;88(3):1703-13. doi:
+10.1128/JVI.02209-13. Epub 2013 Nov 20. PMID: 24257606; PMCID: PMC3911611.
+
+156: Yan H, Tang G, Wang H, Hao L, He T, Sun X, Ting AH, Deng A, Sun S. DNA
+methylation reactivates GAD1 expression in cancer by preventing CTCF-mediated
+polycomb repressive complex 2 recruitment. Oncogene. 2016 Jul
+28;35(30):3995-4008. doi: 10.1038/onc.2015.423. Epub 2015 Nov 9. Erratum in:
+Oncogene. 2016 Jul 28;35(30):4020. PMID: 26549033.
+
+157: Chai P, Yu J, Jia R, Wen X, Ding T, Zhang X, Ni H, Jia R, Ge S, Zhang H,
+Fan X. Generation of onco-enhancer enhances chromosomal remodeling and
+accelerates tumorigenesis. Nucleic Acids Res. 2020 Nov 16:gkaa1051. doi:
+10.1093/nar/gkaa1051. Epub ahead of print. PMID: 33196849.
+
+158: Lee SH, Kim Y, Lee S, Durang X, Stenberg P, Jeon JH, Lizana L. Mapping the
+spectrum of 3D communities in human chromosome conformation capture data. Sci
+Rep. 2019 May 2;9(1):6859. doi: 10.1038/s41598-019-42212-y. PMID: 31048738;
+PMCID: PMC6497878.
+
+159: Magbanua JP, Runneburger E, Russell S, White R. A variably occupied CTCF
+binding site in the ultrabithorax gene in the Drosophila bithorax complex. Mol
+Cell Biol. 2015 Jan;35(1):318-30. doi: 10.1128/MCB.01061-14. Epub 2014 Nov 3.
+PMID: 25368383; PMCID: PMC4295388.
+
+160: Diehl AG, Ouyang N, Boyle AP. Transposable elements contribute to cell and
+species-specific chromatin looping and gene regulation in mammalian genomes. Nat
+Commun. 2020 Apr 14;11(1):1796. doi: 10.1038/s41467-020-15520-5. PMID: 32286261;
+PMCID: PMC7156512.
+
+161: Abboud N, Morris TM, Hiriart E, Yang H, Bezerra H, Gualazzi MG, Stefanovic
+S, Guénantin AC, Evans SM, Pucéat M. A cohesin-OCT4 complex mediates Sox
+enhancers to prime an early embryonic lineage. Nat Commun. 2015 Apr 8;6:6749.
+doi: 10.1038/ncomms7749. PMID: 25851587; PMCID: PMC5531045.
+
+162: Mishiro T, Ishihara K, Hino S, Tsutsumi S, Aburatani H, Shirahige K,
+Kinoshita Y, Nakao M. Architectural roles of multiple chromatin insulators at
+the human apolipoprotein gene cluster. EMBO J. 2009 May 6;28(9):1234-45. doi:
+10.1038/emboj.2009.81. Epub 2009 Mar 26. PMID: 19322193; PMCID: PMC2683055.
+
+163: Le May N, Fradin D, Iltis I, Bougnères P, Egly JM. XPG and XPF
+endonucleases trigger chromatin looping and DNA demethylation for accurate
+expression of activated genes. Mol Cell. 2012 Aug 24;47(4):622-32. doi:
+10.1016/j.molcel.2012.05.050. Epub 2012 Jul 5. PMID: 22771116.
+
+164: Silva-Santiago E, Rivera-Mulia JC, Aranda-Anzaldo A. The Set of Structural
+DNA-Nuclear Matrix Interactions in Neurons Is Cell-Type Specific and Rather
+Independent of Functional Constraints. J Cell Biochem. 2017
+Aug;118(8):2151-2160. doi: 10.1002/jcb.25852. Epub 2017 Apr 18. PMID: 27996173.
+
+165: Hu J, Zhang Y, Zhao L, Frock RL, Du Z, Meyers RM, Meng FL, Schatz DG, Alt
+FW. Chromosomal Loop Domains Direct the Recombination of Antigen Receptor Genes.
+Cell. 2015 Nov 5;163(4):947-59. doi: 10.1016/j.cell.2015.10.016. Epub 2015 Oct
+22. PMID: 26593423; PMCID: PMC4660266.
+
+166: Rowley MJ, Poulet A, Nichols MH, Bixler BJ, Sanborn AL, Brouhard EA,
+Hermetz K, Linsenbaum H, Csankovszki G, Lieberman Aiden E, Corces VG. Analysis
+of Hi-C data using SIP effectively identifies loops in organisms from <i>C.
+elegans</i> to mammals. Genome Res. 2020 Mar;30(3):447-458. doi:
+10.1101/gr.257832.119. Epub 2020 Mar 3. PMID: 32127418; PMCID: PMC7111518.
+
+167: Hnisz D, Young RA. New Insights into Genome Structure: Genes of a Feather
+Stick Together. Mol Cell. 2017 Sep 7;67(5):730-731. doi:
+10.1016/j.molcel.2017.08.023. PMID: 28886334; PMCID: PMC5638658.
+
+168: Engmann O, Labonté B, Mitchell A, Bashtrykov P, Calipari ES, Rosenbluh C,
+Loh YE, Walker DM, Burek D, Hamilton PJ, Issler O, Neve RL, Turecki G, Hurd Y,
+Chess A, Shen L, Mansuy I, Jeltsch A, Akbarian S, Nestler EJ. Cocaine-Induced
+Chromatin Modifications Associate With Increased Expression and Three-
+Dimensional Looping of Auts2. Biol Psychiatry. 2017 Dec 1;82(11):794-805. doi:
+10.1016/j.biopsych.2017.04.013. Epub 2017 May 5. PMID: 28577753; PMCID:
+PMC5671915.
+
+169: Nettling M, Treutler H, Grau J, Keilwagen J, Posch S, Grosse I. DiffLogo: a
+comparative visualization of sequence motifs. BMC Bioinformatics. 2015 Nov
+17;16:387. doi: 10.1186/s12859-015-0767-x. PMID: 26577052; PMCID: PMC4650857.
+
+170: MacPherson MJ, Sadowski PD. The CTCF insulator protein forms an unusual DNA
+structure. BMC Mol Biol. 2010 Dec 21;11:101. doi: 10.1186/1471-2199-11-101.
+PMID: 21176138; PMCID: PMC3014928.
+
+171: Al-Obaide MA, Alobydi H, Abdelsalam AG, Zhang R, Srivenugopal KS.
+Multifaceted roles of 5'-regulatory region of the cancer associated gene B4GALT1
+and its comparison with the gene family. Int J Oncol. 2015 Oct;47(4):1393-404.
+doi: 10.3892/ijo.2015.3136. Epub 2015 Aug 27. PMID: 26315939.
+
+172: Schmidt D, Schwalie PC, Ross-Innes CS, Hurtado A, Brown GD, Carroll JS,
+Flicek P, Odom DT. A CTCF-independent role for cohesin in tissue-specific
+transcription. Genome Res. 2010 May;20(5):578-88. doi: 10.1101/gr.100479.109.
+Epub 2010 Mar 10. PMID: 20219941; PMCID: PMC2860160.
+
+173: Han L, Lee DH, Szabó PE. CTCF is the master organizer of domain-wide
+allele-specific chromatin at the H19/Igf2 imprinted region. Mol Cell Biol. 2008
+Feb;28(3):1124-35. doi: 10.1128/MCB.01361-07. Epub 2007 Nov 26. PMID: 18039862;
+PMCID: PMC2223393.
+
+174: Kurukuti S, Tiwari VK, Tavoosidana G, Pugacheva E, Murrell A, Zhao Z,
+Lobanenkov V, Reik W, Ohlsson R. CTCF binding at the H19 imprinting control
+region mediates maternally inherited higher-order chromatin conformation to
+restrict enhancer access to Igf2. Proc Natl Acad Sci U S A. 2006 Jul
+11;103(28):10684-9. doi: 10.1073/pnas.0600326103. Epub 2006 Jun 30. PMID:
+16815976; PMCID: PMC1484419.
+
+175: van Weerd JH, Badi I, van den Boogaard M, Stefanovic S, van de Werken HJ,
+Gomez-Velazquez M, Badia-Careaga C, Manzanares M, de Laat W, Barnett P,
+Christoffels VM. A large permissive regulatory domain exclusively controls Tbx3
+expression in the cardiac conduction system. Circ Res. 2014 Aug 1;115(4):432-41.
+doi: 10.1161/CIRCRESAHA.115.303591. Epub 2014 Jun 24. PMID: 24963028.
+
+176: Beagan JA, Phillips-Cremins JE. CRISPR/Cas9 genome editing throws
+descriptive 3-D genome folding studies for a loop. Wiley Interdiscip Rev Syst
+Biol Med. 2016 Jul;8(4):286-99. doi: 10.1002/wsbm.1338. Epub 2016 Jun 6. PMID:
+27265842; PMCID: PMC7564889.
+
+177: Kim YW, Kim A. Histone acetylation contributes to chromatin looping between
+the locus control region and globin gene by influencing hypersensitive site
+formation. Biochim Biophys Acta. 2013 Sep;1829(9):963-9. doi:
+10.1016/j.bbagrm.2013.04.006. Epub 2013 Apr 20. PMID: 23607989.
+
+178: Dunn KL, Zhao H, Davie JR. The insulator binding protein CTCF associates
+with the nuclear matrix. Exp Cell Res. 2003 Aug 1;288(1):218-23. doi:
+10.1016/s0014-4827(03)00185-x. PMID: 12878173.
+
+179: Nichols MH, Corces VG. A CTCF Code for 3D Genome Architecture. Cell. 2015
+Aug 13;162(4):703-5. doi: 10.1016/j.cell.2015.07.053. PMID: 26276625; PMCID:
+PMC4745123.
+
+180: Kim J, Zarjou A, Traylor AM, Bolisetty S, Jaimes EA, Hull TD, George JF,
+Mikhail FM, Agarwal A. In vivo regulation of the heme oxygenase-1 gene in
+humanized transgenic mice. Kidney Int. 2012 Aug;82(3):278-91. doi:
+10.1038/ki.2012.102. Epub 2012 Apr 11. PMID: 22495295; PMCID: PMC3396739.
+
+181: Degner SC, Wong TP, Jankevicius G, Feeney AJ. Cutting edge: developmental
+stage-specific recruitment of cohesin to CTCF sites throughout immunoglobulin
+loci during B lymphocyte development. J Immunol. 2009 Jan 1;182(1):44-8. doi:
+10.4049/jimmunol.182.1.44. PMID: 19109133; PMCID: PMC2625297.
+
+182: Yoon YS, Jeong S, Rong Q, Park KY, Chung JH, Pfeifer K. Analysis of the
+H19ICR insulator. Mol Cell Biol. 2007 May;27(9):3499-510. doi:
+10.1128/MCB.02170-06. Epub 2007 Mar 5. PMID: 17339341; PMCID: PMC1899958.
+
+183: Kizuka Y, Kitazume S, Yoshida M, Taniguchi N. Brain-specific expression of
+N-acetylglucosaminyltransferase IX (GnT-IX) is regulated by epigenetic histone
+modifications. J Biol Chem. 2011 Sep 9;286(36):31875-84. doi:
+10.1074/jbc.M111.251173. Epub 2011 Jul 19. PMID: 21771782; PMCID: PMC3173087.
+
+184: Zhou Y, Kurukuti S, Saffrey P, Vukovic M, Michie AM, Strogantsev R, West
+AG, Vetrie D. Chromatin looping defines expression of TAL1, its flanking genes,
+and regulation in T-ALL. Blood. 2013 Dec 19;122(26):4199-209. doi:
+10.1182/blood-2013-02-483875. Epub 2013 Nov 7. PMID: 24200685.
+
+185: Bersten DC, Wright JA, McCarthy PJ, Whitelaw ML. Regulation of the neuronal
+transcription factor NPAS4 by REST and microRNAs. Biochim Biophys Acta. 2014
+Jan;1839(1):13-24. doi: 10.1016/j.bbagrm.2013.11.004. Epub 2013 Nov 28. PMID:
+24291638.
+
+186: Espinosa JM. On the Origin of lncRNAs: Missing Link Found. Trends Genet.
+2017 Oct;33(10):660-662. doi: 10.1016/j.tig.2017.07.005. Epub 2017 Aug 1. PMID:
+28778681; PMCID: PMC5610073.
+
+187: Hirosue A, Ishihara K, Tokunaga K, Watanabe T, Saitoh N, Nakamoto M,
+Chandra T, Narita M, Shinohara M, Nakao M. Quantitative assessment of higher-
+order chromatin structure of the INK4/ARF locus in human senescent cells. Aging
+Cell. 2012 Jun;11(3):553-6. doi: 10.1111/j.1474-9726.2012.00809.x. Epub 2012 Mar
+12. PMID: 22340434.
+
+188: Nurminen V, Neme A, Ryynänen J, Heikkinen S, Seuter S, Carlberg C. The
+transcriptional regulator BCL6 participates in the secondary gene regulatory
+response to vitamin D. Biochim Biophys Acta. 2015 Mar;1849(3):300-8. doi:
+10.1016/j.bbagrm.2014.12.001. Epub 2014 Dec 5. PMID: 25482012.
+
+189: Natale F, Rapp A, Yu W, Maiser A, Harz H, Scholl A, Grulich S, Anton T,
+Hörl D, Chen W, Durante M, Taucher-Scholz G, Leonhardt H, Cardoso MC.
+Identification of the elementary structural units of the DNA damage response.
+Nat Commun. 2017 Jun 12;8:15760. doi: 10.1038/ncomms15760. PMID: 28604675;
+PMCID: PMC5472794.
+
+190: Ottaviani D, Lever E, Mao S, Christova R, Ogunkolade BW, Jones TA, Szary J,
+Aarum J, Mumin MA, Pieri CA, Krawetz SA, Sheer D. CTCF binds to sites in the
+major histocompatibility complex that are rapidly reconfigured in response to
+interferon-gamma. Nucleic Acids Res. 2012 Jul;40(12):5262-70. doi:
+10.1093/nar/gks158. Epub 2012 Feb 25. PMID: 22367884; PMCID: PMC3384298.
+
+191: Zhang H, Niu B, Hu JF, Ge S, Wang H, Li T, Ling J, Steelman BN, Qian G,
+Hoffman AR. Interruption of intrachromosomal looping by CCCTC binding factor
+decoy proteins abrogates genomic imprinting of human insulin-like growth factor
+II. J Cell Biol. 2011 May 2;193(3):475-87. doi: 10.1083/jcb.201101021. PMID:
+21536749; PMCID: PMC3087012.
+
+192: Smits BM, Traun BD, Devries TL, Tran A, Samuelson D, Haag JD, Gould M. An
+insulator loop resides between the synthetically interacting elements of the
+human/rat conserved breast cancer susceptibility locus MCS5A/Mcs5a. Nucleic
+Acids Res. 2012 Jan;40(1):132-47. doi: 10.1093/nar/gkr610. Epub 2011 Sep 13.
+PMID: 21914726; PMCID: PMC3245909.
+
+193: Manoharan H, Babcock K, Pitot HC. Changes in the DNA methylation profile of
+the rat H19 gene upstream region during development and transgenic
+hepatocarcinogenesis and its role in the imprinted transcriptional regulation of
+the H19 gene. Mol Carcinog. 2004 Sep;41(1):1-16. doi: 10.1002/mc.20036. PMID:
+15352122.
+
+194: Ju Z, Chatterjee S, Birshtein BK. Interaction between the immunoglobulin
+heavy chain 3' regulatory region and the IgH transcription unit during B cell
+differentiation. Mol Immunol. 2011 Oct;49(1-2):297-303. doi:
+10.1016/j.molimm.2011.08.024. Epub 2011 Sep 25. PMID: 21945019; PMCID:
+PMC3238056.
+
+195: Kuang S, Wang L. Deep Learning of Sequence Patterns for CCCTC-Binding
+Factor-Mediated Chromatin Loop Formation. J Comput Biol. 2020 Nov 25. doi:
+10.1089/cmb.2020.0225. Epub ahead of print. PMID: 33232622.
+
+196: van Roon EH, de Miranda NF, van Nieuwenhuizen MP, de Meijer EJ, van
+Puijenbroek M, Yan PS, Huang TH, van Wezel T, Morreau H, Boer JM. Tumour-
+specific methylation of PTPRG intron 1 locus in sporadic and Lynch syndrome
+colorectal cancer. Eur J Hum Genet. 2011 Mar;19(3):307-12. doi:
+10.1038/ejhg.2010.187. Epub 2010 Dec 8. PMID: 21150880; PMCID: PMC3061992.
+
+197: González-Rico FJ, Vicente-García C, Fernández A, Muñoz-Santos D, Montoliu
+L, Morales-Hernández A, Merino JM, Román AC, Fernández-Salguero PM. Alu
+retrotransposons modulate Nanog expression through dynamic changes in regional
+chromatin conformation via aryl hydrocarbon receptor. Epigenetics Chromatin.
+2020 Mar 14;13(1):15. doi: 10.1186/s13072-020-00336-w. PMID: 32169107; PMCID:
+PMC7071633.
+
+198: Roayaei Ardakany A, Gezer HT, Lonardi S, Ay F. Mustache: multi-scale
+detection of chromatin loops from Hi-C and Micro-C maps using scale-space
+representation. Genome Biol. 2020 Sep 30;21(1):256. doi:
+10.1186/s13059-020-02167-0. PMID: 32998764; PMCID: PMC7528378.
+
+199: Eivazova ER, Gavrilov A, Pirozhkova I, Petrov A, Iarovaia OV, Razin SV,
+Lipinski M, Vassetzky YS. Interaction in vivo between the two matrix attachment
+regions flanking a single chromatin loop. J Mol Biol. 2009 Mar 6;386(4):929-37.
+doi: 10.1016/j.jmb.2008.12.022. Epub 2008 Dec 14. PMID: 19118562.
+
+200: Larkin JD, Cook PR, Papantonis A. Dynamic reconfiguration of long human
+genes during one transcription cycle. Mol Cell Biol. 2012 Jul;32(14):2738-47.
+doi: 10.1128/MCB.00179-12. Epub 2012 May 14. PMID: 22586273; PMCID: PMC3416186.
+
+201: Patel B, Kang Y, Cui K, Litt M, Riberio MS, Deng C, Salz T, Casada S, Fu X,
+Qiu Y, Zhao K, Huang S. Aberrant TAL1 activation is mediated by an
+interchromosomal interaction in human T-cell acute lymphoblastic leukemia.
+Leukemia. 2014 Feb;28(2):349-61. doi: 10.1038/leu.2013.158. Epub 2013 May 23.
+PMID: 23698277.
+
+202: Klenova E, Chernukhin I, Inoue T, Shamsuddin S, Norton J.
+Immunoprecipitation techniques for the analysis of transcription factor
+complexes. Methods. 2002 Mar;26(3):254-9. doi: 10.1016/S1046-2023(02)00029-4.
+PMID: 12054881.
+
+203: Ebert A, McManus S, Tagoh H, Medvedovic J, Salvagiotto G, Novatchkova M,
+Tamir I, Sommer A, Jaritz M, Busslinger M. The distal V(H) gene cluster of the
+Igh locus contains distinct regulatory elements with Pax5 transcription factor-
+dependent activity in pro-B cells. Immunity. 2011 Feb 25;34(2):175-87. doi:
+10.1016/j.immuni.2011.02.005. PMID: 21349430.
+
+204: Yusufzai TM, Tagami H, Nakatani Y, Felsenfeld G. CTCF tethers an insulator
+to subnuclear sites, suggesting shared insulator mechanisms across species. Mol
+Cell. 2004 Jan 30;13(2):291-8. doi: 10.1016/s1097-2765(04)00029-2. PMID:
+14759373.
+
+205: Amândio AR, Lopez-Delisle L, Bolt CC, Mascrez B, Duboule D. A complex
+regulatory landscape involved in the development of mammalian external genitals.
+Elife. 2020 Apr 17;9:e52962. doi: 10.7554/eLife.52962. PMID: 32301703; PMCID:
+PMC7185996.
+
+206: Tata PR, Tata NR, Kühl M, Sirbu IO. Identification of a novel epigenetic
+regulatory region within the pluripotency associated microRNA cluster, EEmiRC.
+Nucleic Acids Res. 2011 May;39(9):3574-81. doi: 10.1093/nar/gkq1344. Epub 2011
+Jan 18. PMID: 21247880; PMCID: PMC3089473.
+
+207: Santana JF, Parida M, Long A, Wankum J, Lilienthal AJ, Nukala KM, Manak JR.
+The Dm-Myb Oncoprotein Contributes to Insulator Function and Stabilizes
+Repressive H3K27me3 PcG Domains. Cell Rep. 2020 Mar 10;30(10):3218-3228.e5. doi:
+10.1016/j.celrep.2020.02.053. PMID: 32160531; PMCID: PMC7172335.
+
+208: Kuraku S, Zmasek CM, Nishimura O, Katoh K. aLeaves facilitates on-demand
+exploration of metazoan gene family trees on MAFFT sequence alignment server
+with enhanced interactivity. Nucleic Acids Res. 2013 Jul;41(Web Server
+issue):W22-8. doi: 10.1093/nar/gkt389. Epub 2013 May 15. PMID: 23677614; PMCID:
+PMC3692103.
+
+209: Dhami P, Bruce AW, Jim JH, Dillon SC, Hall A, Cooper JL, Bonhoure N, Chiang
+K, Ellis PD, Langford C, Andrews RM, Vetrie D. Genomic approaches uncover
+increasing complexities in the regulatory landscape at the human SCL (TAL1)
+locus. PLoS One. 2010 Feb 5;5(2):e9059. doi: 10.1371/journal.pone.0009059. PMID:
+20140202; PMCID: PMC2816701.
+
+210: Wang H, Ge S, Qian G, Li W, Cui J, Wang G, Hoffman AR, Hu JF. Restoration
+of IGF2 imprinting by polycomb repressive complex 2 docking factor SUZ12 in
+colon cancer cells. Exp Cell Res. 2015 Nov 1;338(2):214-21. doi:
+10.1016/j.yexcr.2015.09.016. Epub 2015 Sep 25. PMID: 26407907.
+
+211: Li T, Chen H, Li W, Cui J, Wang G, Hu X, Hoffman AR, Hu J. Promoter histone
+H3K27 methylation in the control of IGF2 imprinting in human tumor cell lines.
+Hum Mol Genet. 2014 Jan 1;23(1):117-28. doi: 10.1093/hmg/ddt405. Epub 2013 Aug
+19. PMID: 23962719; PMCID: PMC3857949.
+
+212: Ohta Y, Nishiyama A, Wada Y, Ruan Y, Kodama T, Tsuboi T, Tokihiro T, Ihara
+S. Path-preference cellular-automaton model for traffic flow through transit
+points and its application to the transcription process in human cells. Phys Rev
+E Stat Nonlin Soft Matter Phys. 2012 Aug;86(2 Pt 1):021918. doi:
+10.1103/PhysRevE.86.021918. Epub 2012 Aug 21. PMID: 23005796.
+
+213: Lin YC, Benner C, Mansson R, Heinz S, Miyazaki K, Miyazaki M, Chandra V,
+Bossen C, Glass CK, Murre C. Global changes in the nuclear positioning of genes
+and intra- and interdomain genomic interactions that orchestrate B cell fate.
+Nat Immunol. 2012 Dec;13(12):1196-204. doi: 10.1038/ni.2432. Epub 2012 Oct 14.
+PMID: 23064439; PMCID: PMC3501570.
+
+214: Kolodziej S, Kuvardina ON, Oellerich T, Herglotz J, Backert I, Kohrs N,
+Buscató El, Wittmann SK, Salinas-Riester G, Bonig H, Karas M, Serve H, Proschak
+E, Lausen J. PADI4 acts as a coactivator of Tal1 by counteracting repressive
+histone arginine methylation. Nat Commun. 2014 May 29;5:3995. doi:
+10.1038/ncomms4995. PMID: 24874575; PMCID: PMC4050257.
+
+215: Bertero A, Rosa-Garrido M. Three-dimensional chromatin organization in
+cardiac development and disease. J Mol Cell Cardiol. 2020 Nov
+23:S0022-2828(20)30331-X. doi: 10.1016/j.yjmcc.2020.11.008. Epub ahead of print.
+PMID: 33242466.
+
+216: de Souza Rocha Simonini P, Breiling A, Gupta N, Malekpour M, Youns M,
+Omranipour R, Malekpour F, Volinia S, Croce CM, Najmabadi H, Diederichs S, Sahin
+O, Mayer D, Lyko F, Hoheisel JD, Riazalhosseini Y. Epigenetically deregulated
+microRNA-375 is involved in a positive feedback loop with estrogen receptor
+alpha in breast cancer cells. Cancer Res. 2010 Nov 15;70(22):9175-84. doi:
+10.1158/0008-5472.CAN-10-1318. Epub 2010 Oct 26. PMID: 20978187.
+
+217: Trieu T, Martinez-Fundichely A, Khurana E. DeepMILO: a deep learning
+approach to predict the impact of non-coding sequence variants on 3D chromatin
+structure. Genome Biol. 2020 Mar 26;21(1):79. doi: 10.1186/s13059-020-01987-4.
+PMID: 32216817; PMCID: PMC7098089.
+
+218: Hu G, Schones DE, Cui K, Ybarra R, Northrup D, Tang Q, Gattinoni L, Restifo
+NP, Huang S, Zhao K. Regulation of nucleosome landscape and transcription factor
+targeting at tissue-specific enhancers by BRG1. Genome Res. 2011
+Oct;21(10):1650-8. doi: 10.1101/gr.121145.111. Epub 2011 Jul 27. PMID: 21795385;
+PMCID: PMC3202282.
+
+219: Antes TJ, Namciu SJ, Fournier RE, Levy-Wilson B. The 5' boundary of the
+human apolipoprotein B chromatin domain in intestinal cells. Biochemistry. 2001
+Jun 12;40(23):6731-42. doi: 10.1021/bi0100743. PMID: 11389587.
+
+220: Raizis AM, Racher HM, Foucal A, Dimaras H, Gallie BL, George PM. DNA
+hypermethylation/boundary control loss identified in retinoblastomas associated
+with genetic and epigenetic inactivation of the <i>RB1</i> gene promoter.
+Epigenetics. 2020 Dec 1:1-15. doi: 10.1080/15592294.2020.1834911. Epub ahead of
+print. PMID: 33258708.
